@@ -1,5 +1,5 @@
 ### Halfdan Isaksen
-I'm currently studying my masters at Aalborg University in Copenhagen
+I'm currently studying my masters at Aalborg University in Copenhagen\
 🌱 I’m currently learning RUST and SwiftUI
 
 
