@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 ![Top Langs](https://github-readme-stats-halfdan-isaksens-projects.vercel.app/api/top-langs/?username=HalfdanIsaksen&hide_progress=true)
 
 <!--
