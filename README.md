@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Top Langs](https://github-readme-stats-halfdan.vercel.app/api/top-langs/?username=HalfdanIsaksen&layout=compact)
+![Top Langs](https://github-readme-stats-halfdan.vercel.app/api/top-langs/?username=HalfdanIsaksen&layout=compact&count-private=true)
 
 <!--
 **HalfdanIsaksen/HalfdanIsaksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
