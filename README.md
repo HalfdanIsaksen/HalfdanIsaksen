@@ -1,5 +1,7 @@
 ### Halfdan Isaksen
 I'm currently studying my masters at Aalborg University in Copenhagen
+🌱 I’m currently learning RUST and SwiftUI
+
 
 ![Top Langs](https://github-readme-stats-eta-eight-24.vercel.app/api/top-langs/?username=HalfdanIsaksen&layout=compact&exclude_repo=HRTFfpsVR&size_weight=0.5&count_weight=0.5)
 
