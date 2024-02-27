@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Halfdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HalfdanIsaksen)](https://github.com/HalfdanIsaksen/github-readme-stats)
 <!--
 **HalfdanIsaksen/HalfdanIsaksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
