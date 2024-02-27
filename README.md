@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Top Langs](https://github-readme-stats-eta-eight-24.vercel.app/api/top-langs/?username=HalfdanIsaksen&layout=compact)
+![Top Langs](https://github-readme-stats-eta-eight-24.vercel.app/api/top-langs/?username=HalfdanIsaksen&layout=compact&exclude_repo=HRTFfpsVR)
 
 <!--
 **HalfdanIsaksen/HalfdanIsaksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
