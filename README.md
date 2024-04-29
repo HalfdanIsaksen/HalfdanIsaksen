@@ -1,5 +1,5 @@
 
-I'm currently studying my masters at Aalborg University in Copenhagen\
+I'm studying my masters in programming and computer human interactions at Aalborg University in Copenhagen\
 \
 🌱 I’m currently learning RUST and SwiftUI
 
