@@ -1,9 +1,9 @@
 
 I'm studying my masters in programming and computer human interactions at Aalborg University in Copenhagen\
 \
-🌱 RUST
-🌿 Swift
-🌳 C#
+🌱 RUST \
+🌿 Swift \
+🌳 C# \ 
 
 ![Top Langs](https://github-readme-stats-eta-eight-24.vercel.app/api/top-langs/?username=HalfdanIsaksen&layout=compact&exclude_repo=HRTFfpsVR&size_weight=0.5&count_weight=0.5&hide=Shaderlab,HLSL,C%2B%2B,Objective-C%2B%2B,GAP,Mathematica&langs_count=4)
 
