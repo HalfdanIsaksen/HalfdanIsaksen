@@ -1,14 +1,11 @@
 
-MSc in Medialogy (programming and computer human interactions)\
-I enjoy exploring programming languages and create different applications depending on the langauges strong suit.
+MSc in Medialogy (programming and human-computer interactions)\
+I enjoy exploring programming languages and creating different applications depending on the language’s strong suit.
 \
 My most used langauges are:
 
 ![Top Langs](https://github-readme-stats-eta-eight-24.vercel.app/api/top-langs/?username=HalfdanIsaksen&layout=compact&exclude_repo=HRTFfpsVR&size_weight=0.5&count_weight=0.5&hide=Shaderlab,HLSL,C%2B%2B,Objective-C%2B%2B,GAP,Mathematica&langs_count=6)
 
-\
-\
-Take a look at some of my repos
 <!--
 **HalfdanIsaksen/HalfdanIsaksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
