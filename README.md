@@ -1,8 +1,6 @@
 
-MSc in Medialogy (programming and human-computer interactions)\
-I enjoy exploring programming languages and creating different applications depending on the language’s strong suit.
-\
-My most used langauges are:
+Hippo in a world full of unicorns.
+Coding here, coding there - spaghetti everywhere
 
 ![Top Langs](https://github-readme-stats-eta-eight-24.vercel.app/api/top-langs/?username=HalfdanIsaksen&layout=compact&exclude_repo=HRTFfpsVR&size_weight=0.5&count_weight=0.5&hide=Shaderlab,HLSL,C%2B%2B,Objective-C%2B%2B,GAP,Mathematica&langs_count=6)
 
